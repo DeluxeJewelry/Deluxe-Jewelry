@@ -1,0 +1,7 @@
+{
+  "name": "DELUXE JEWELRY",
+  "description": "A high-end, premium luxury jewelry storefront for Deluxe Jewelry, featuring gold, diamonds, and luxury watches with a focus on trust and exclusivity.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
